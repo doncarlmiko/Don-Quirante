@@ -1,0 +1,100 @@
+body{
+	background-color:#d9d9d9;
+}
+
+img{
+	width: 100%;
+	margin: -10px 0 5px 0;
+}
+
+#title{
+	font-family: sternbach;
+	text-align: center;
+	margin-top:50px;
+	font-size: 2.1em;
+	color: black;
+
+
+}
+
+#description{
+	font-family:Spantaran-GE2D, sternbach;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+
+#name,#email,#number,textarea, select{
+  margin: 5px 0 30px 0;
+  width: 100%;
+  min-height: 2.2em;
+
+}
+
+form{
+	background-color: #000033;
+	width: 100%;
+	max-width: 850px;
+	margin: auto;
+	color: #e6e6e6;
+	padding:20px 0 20px 0;
+}
+
+legend, #name-label, #email-label, #number-label{
+	font-size: 1.3em;
+}
+
+fieldset{
+	width: 80%;
+	margin: auto;
+	margin-top: 15px;
+	border: none;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+textarea{
+	height: 13vh;
+	font-size:1.2em;
+	font-family: "Lucida Console", "Courier New", monospace;
+	padding-top:10px;
+	padding-left: 10px;
+}
+
+#wrestling,#ufc,#boxing,#basketball,#badminton,#tennis,#soccer,#Sprint{
+	font-size: 1.3em;
+	margin: 5px 0 5px 0;
+
+}
+
+input[type="radio"] {
+  margin-right: 20px;
+  vertical-align: -1px;
+}
+
+input[type="checkbox"] {
+  vertical-align: -1px;
+}
+
+input[type="button"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border: none;
+  border-radius: 5px;
+  min-width: 300px;
+  color:#e6e6e6;
+
+}
+
+a:link{
+	text-decoration: none;
+}
+.inline{
+	display: block;
+	margin: auto;
+}
+
+
