@@ -1,0 +1,62 @@
+/* Social Media Icon Colors */
+#facebook {
+    color: #0066cc;
+}
+
+#instagram {
+    color: #ea6400;
+}
+
+#twitter {
+    color: #4da6ff;
+}
+
+/* Background Image Styles */
+.background-image {
+    position: relative;
+    display: block;
+}
+
+/* Profile Picture Styles */
+.profile-picture {
+    left: 38%;
+    top: 50%;
+    position: absolute;
+}
+
+/* Name Header Styles */
+.name-header {
+    color: black;
+    text-align: center;
+}
+
+/* About Section Background */
+.about-section {
+    background-color: lavender;
+}
+
+/* Resume Section Styles */
+.resume-section {
+    font-size: 0.8em;
+    background-color: #2d2d2d;
+}
+
+.resume-text {
+    color: #e5e5e5;
+}
+
+/* Technology List Styles */
+.technology-list {
+    text-align: left;
+    margin-left: 50px;
+}
+
+/* Footer Styles */
+.footer {
+    font-size: 0.7em;
+    background-color: #2d2d2d;
+}
+
+.footer-text {
+    color: #e5e5e5;
+}
